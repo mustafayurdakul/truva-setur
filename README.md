@@ -3,7 +3,7 @@ Setur 2020 hackathon yarışması truva takımının seyahati ayağınıza getir
 
 ## Kullanılan teknolojiler
 ##### React Native
-Demo olarak hemen şimdi, şu an, anında uygulamamızı hem iOS hem Android cihazınızd deneyimleyebilmeniz için React Native kullandık. 
+Demo olarak hemen şimdi, şu an, anında uygulamamızı hem iOS hem Android cihazınızda deneyimleyebilmeniz için React Native kullandık. 
 
 Buradaki adrese giderek [Expo](https://expo.io/ "Expo")'yu indirdikten sonra uygulamamızı deneyebilirsiniz. 
 
