@@ -12,7 +12,7 @@ https://exp.host/@yurdakulmustafa/truva-setur
 ##### Amazon Web Services
 Canlı yayın backendini direkt olarak Amazon Web Servisleri aracılığı ile ayağa kaldırıyoruz. Amplify ile canlı olarak yayını uygulamamıza gönderiyoruz. Üstelik yapılan canlı yayınlar daha sonra kullanılmak üzere veri tabanına kayıt ediliyor.
 
-Detaylı bilgi için [Amplifty AWS](https://docs.amplify.aws/ "Amplifty AWS") sayfasını ziyaret edebilirsiniz.
+Detaylı bilgi için [Amplify AWS](https://docs.amplify.aws/ "Amplify AWS") sayfasını ziyaret edebilirsiniz.
 
 Bu konuda [Nader Dabit](https://github.com/dabit3 "Nader Dabit") abimize teşekkür ederiz. Kendisi güzel makaleler hazırlamış kaynak olarak kullandığımız bu makaleyi de [buraya](https://dev.to/aws/building-a-serverless-live-streaming-platform-with-react-aws-1jmk "buraya") bırakıyoruz.
 
