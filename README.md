@@ -1,5 +1,5 @@
 # Setruva
-Setur 2020 hackathon yarışması truva takımının seyahati ayağınıza getirecek fikrin **canlı** uygulaması!
+Setur 2020 hackathon yarışması truva takımının seyahati ayağınıza getirecek fikrinin **canlı** uygulaması!
 
 ## Kullanılan teknolojiler
 ##### React Native
