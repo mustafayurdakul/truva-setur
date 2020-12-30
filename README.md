@@ -1,3 +1,5 @@
+![](https://i.hizliresim.com/z8eM7d.png)
+
 # Setruva
 Setur 2020 hackathon yarışması truva takımının seyahati ayağınıza getirecek fikrinin **canlı** uygulaması!
 
