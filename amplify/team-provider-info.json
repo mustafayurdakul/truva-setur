@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-truvasetur-dev-195118-authRole",
+      "UnauthRoleArn": "arn:aws:iam::171717429707:role/amplify-truvasetur-dev-195118-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::171717429707:role/amplify-truvasetur-dev-195118-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-truvasetur-dev-195118-deployment",
+      "UnauthRoleName": "amplify-truvasetur-dev-195118-unauthRole",
+      "StackName": "amplify-truvasetur-dev-195118",
+      "StackId": "arn:aws:cloudformation:eu-central-1:171717429707:stack/amplify-truvasetur-dev-195118/13850800-49f6-11eb-8948-028c5bff5b40",
+      "AmplifyAppId": "d12l3fnf03sx10"
+    }
+  }
+}
